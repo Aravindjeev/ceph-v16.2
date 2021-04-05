@@ -103,7 +103,7 @@
     "ngx-toastr": "13.1.0",
     "rxjs": "6.6.3",
     "simplebar-angular": "2.3.0",
-    "swagger-ui-dist": "3.35.1",
+    "swagger-ui-dist": "3.45.0",
     "tslib": "2.0.2",
     "zone.js": "0.10.3"
   },
